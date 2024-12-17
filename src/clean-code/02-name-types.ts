@@ -7,7 +7,7 @@
     const serverIp = '123.123.123.123';
 
     // Listado de usuarios
-    const users = [{id: 1, email: 'fernando@google.com'},{ id: 2, email: 'juan@google.com' }, { id: 3, email: 'melissa@google.com' }];
+    const users = [{id: 1, email: 'gerardo@google.com'},{ id: 2, email: 'juan@google.com' }, { id: 3, email: 'melissa@google.com' }];
 
     // Listado de emails de los usuarios
     const userEmails = users.map( user => user.email );

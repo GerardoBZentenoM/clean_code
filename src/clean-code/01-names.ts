@@ -37,7 +37,7 @@
     const number_of_files = 33;
     
     // primer nombre - first name
-    const firstName = 'Fernando';
+    const firstName = 'gerardo';
     
     // primer apellido - last name
     const lastName = 'Herrera';

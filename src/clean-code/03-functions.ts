@@ -32,7 +32,7 @@
         // tarea asincrona para verificar nombre
         // ..
         // ..
-        if ( fullName === 'fernando' ) return false;
+        if ( fullName === 'gerardo' ) return false;
 
         console.log('Crear actor');
         return true;        
